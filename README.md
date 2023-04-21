@@ -5,6 +5,11 @@
 
 - The trade will last either 4 or 12 hours depending on the settings, after which the position will be closed. This code is ideal for traders who want to automate their trading strategies and minimize the risk of manual errors. It is recommended that users familiarize themselves with the code before running it and make any necessary adjustments to suit their individual trading strategies.
 
+# Disclaimer
+This bot is provided for educational and informational purposes only. It should not be construed as financial advice or an endorsement of any particular investment or trading strategy. Use the bot at your own risk.
+
+# Contributing
+If you'd like to contribute to the development of this bot, please fork the repository and submit a pull request.
 
 # Improvements 
 If you have any improvements please check Disscusions for any further improvements.

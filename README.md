@@ -3,3 +3,5 @@ This Python code is designed to use the RSI Stochastic, EMA 200, and stop loss s
 The code checks for trading opportunities using the RSI Stochastic, EMA 200, and stop loss strategies and executes a trade if an opportunity is identified. The trade will open a position either for long or short with a leverage of 20 to 25 depending on the account balance. 
 
 The trade will last either 4 or 12 hours depending on the settings, after which the position will be closed. This code is ideal for traders who want to automate their trading strategies and minimize the risk of manual errors. It is recommended that users familiarize themselves with the code before running it and make any necessary adjustments to suit their individual trading strategies.
+
+If you have any improvements please check Disscusions for any further improvements.
